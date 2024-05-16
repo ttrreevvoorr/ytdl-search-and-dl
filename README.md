@@ -8,3 +8,5 @@ downloads
    ├─ Album Name
    └── song.m4a
 ```` 
+
+I have not written much Go, and this was written in an evening to get more familiar with the lagnauge. Surely I will be contributing to this more in the future, but it works well enough for me to use it in the interim.
